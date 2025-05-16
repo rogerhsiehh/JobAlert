@@ -80,7 +80,7 @@ You can also follow this excellent video tutorial by Corey Schafer:
 crontab -e
 ```
 
-### 🔹 2. Add a Daily Job Entry
+### 🔹 2. Add a Daily Job Entry(change your file path accordingly)
 
 ```bash
 0 8 * * * /opt/anaconda3/bin/python3 /Users/yourname/Desktop/project/check24.py >> /Users/yourname/Desktop/project/cron_log.txt 2>&1
