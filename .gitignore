@@ -1,0 +1,17 @@
+# macOS system files
+.DS_Store
+
+# RStudio history
+.Rhistory
+
+# PyCharm / JetBrains project files
+.idea/
+
+# Images and screenshots
+*.png
+*.jpeg
+*.jpg
+
+# Python cache
+__pycache__/
+*.pyc
