@@ -12,14 +12,14 @@
 - Compares today’s results with those from yesterday
 - This is an example image of test file, to see the case of 3 new job created
 
-<img src="Screenshot 2025-05-16 at 11.34.04.png" alt="3 New Jobs Found" title="3 New Jobs Found" width="600">
+<img src="image/Screenshot 2025-05-16 at 11.34.04.png" alt="3 New Jobs Found" title="3 New Jobs Found" width="600">
 
 - Identifies and isolates newly posted jobs not seen in previous runs
 
 ### 3. **Telegram Bot Messenger**
 - Sends a concise message directly to the user via Telegram
 
-<img src="IMG_C50EA1ED95B8-1.jpeg" alt="3 New Jobs Found" title="3 New Jobs Found" width="200">
+<img src="image/IMG_C50EA1ED95B8-1.jpeg" alt="3 New Jobs Found" title="3 New Jobs Found" width="200">
 
 - Uses the Telegram Bot API and a custom bot created via [@BotFather](https://t.me/BotFather)
 - Delivers job titles and clickable links to your Telegram account in real-time
